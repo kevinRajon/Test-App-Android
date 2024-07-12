@@ -8,3 +8,5 @@ Le plan de test est consultable en .pdf
  - Analyse du plan de test
  - Analyse des cas de test pour chaques fonctionnalités
  - Création d'un rapport de test clair et annoté
+
+![test](rapportv6.1.png)
